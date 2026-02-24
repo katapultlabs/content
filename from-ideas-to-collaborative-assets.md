@@ -24,14 +24,21 @@ The end product should always be a **written asset**: a PRD, a strategy doc, a p
 
 ## What Changes
 
-| Before (old flow) | After (new flow) |
-|---|---|
-| Idea → tell the team on a call and hope they absorb it | Idea → collaborate with AI → create asset → share with team |
-| Idea → spend hours manually writing a doc, going through revisions | Idea → 15-minute AI session → polished, structured output |
-| Idea → explain it to someone, hope they capture it faithfully, wait for them to produce an asset | Idea → you co-create the asset directly with AI, preserving full fidelity |
-| Context lives in your head | Context lives in Linear / the repo |
-| Standup = explaining your vision from scratch | Standup = "I created this PRD, please review and let's collaborate" |
-| Risk of ideas getting lost, diluted, or misunderstood | Ideas are preserved with the richness and nuance you intended |
+**Before (old flow):**
+
+- You have an idea, bring it to a call, and hope the team absorbs it in real time.
+- You spend hours manually writing a doc, then go through multiple revision cycles before it's ready.
+- You explain your vision to someone, hope they capture it faithfully, and wait for them to produce an asset you can execute from.
+- Context lives in your head. Standup means explaining your vision from scratch.
+- Ideas get lost, diluted, or misunderstood.
+
+**After (new flow):**
+
+- You have an idea, collaborate with AI, create a structured asset, and share it with the team.
+- A 15-minute AI session produces a polished, structured output.
+- You co-create the asset directly with AI, preserving full fidelity. No middleman.
+- Context lives in Linear and the repo. Standup becomes: "I created this PRD, please review and let's collaborate."
+- Ideas are preserved with the richness and nuance you intended.
 
 ## How to Do It (Step by Step)
 
