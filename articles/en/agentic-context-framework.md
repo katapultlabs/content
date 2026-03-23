@@ -24,7 +24,7 @@ The concrete outcome you're after and the output(s) needed to get there. This re
 
 ### 2. WHY — The Intent & Stakes
 
-The motivation behind the request. This is the single biggest unlock for AI quality — it lets the agent make thousands of micro-decisions correctly without asking.
+The motivation behind the request. This is the single biggest lever for AI quality. It lets the agent make thousands of micro-decisions correctly without asking.
 
 - **Goal**: What are you trying to achieve? (persuade, inform, decide, explore, build)
 - **Audience**: Who will consume this? What do they care about? What's their sophistication level?
@@ -82,18 +82,18 @@ This is the "+1" principle — you're not just delegating execution, you're coll
 
 ### The Mastery Requirement: Healthy Skepticism as a Core Skill
 
-Here's the critical counterbalance: **the more capable the AI, the more convincing its mistakes become.**
+The critical counterbalance: **the more capable the AI, the more convincing its mistakes become.**
 
 This means that effective agentic collaboration demands sufficient **domain mastery** to:
 
-- **Discern quality from hallucination** — AI outputs can be confidently wrong, and the only defense is knowing enough to smell when something's off
-- **Push back constructively** — guide the conversation toward truth, just as you would with any collaborator who's brilliant but occasionally overconfident
-- **Know when to trust and when to verify** — not everything needs fact-checking, but high-stakes claims do
-- **Evaluate the "+1"** — when the AI proposes something better than your original idea, you need the judgment to recognize genuine improvement vs. plausible-sounding noise
+- **Discern quality from hallucination**: AI outputs can be confidently wrong, and the only defense is knowing enough to smell when something's off
+- **Push back constructively**: guide the conversation toward truth, just as you would with any collaborator who's brilliant but occasionally overconfident
+- **Know when to trust and when to verify**: not everything needs fact-checking, but high-stakes claims do
+- **Evaluate the "+1"**: when the AI proposes something better than your original idea, you need the judgment to recognize genuine improvement vs. plausible-sounding noise
 
-This is not new. It's the same skill required to lead any team, manage any consultant, or collaborate with any expert throughout history. The difference is speed and scale — AI compresses the collaboration cycle, so your judgment has to keep pace.
+This is not new. It's the same skill required to lead any team, manage any consultant, or collaborate with any expert throughout history. The difference is speed and scale: AI compresses the collaboration cycle, so your judgment has to keep pace.
 
-> **The meta-principle: Mastery doesn't become less important with AI — it becomes the bottleneck.** Your ability to guide, evaluate, and refine is what separates productive collaboration from expensive autopilot.
+> **The meta-principle: Mastery doesn't become less important with AI. It becomes the bottleneck.** Your ability to guide, evaluate, and refine is what separates productive collaboration from expensive autopilot.
 
 ### The Complete Collaboration Model
 
@@ -129,13 +129,20 @@ The most common failure mode in agentic collaboration is providing **WHAT** with
 
 ## Practical Application: Context Density Levels
 
-| Scenario | Pillars Needed | Example |
-|---|---|---|
-| Quick question | WHAT only | "What's the date of Presidents' Day?" |
-| Standard task | WHAT + HOW | "Write a Python script to parse this CSV, use pandas" |
-| High-stakes deliverable | All four | Client proposal, investor deck, legal letter |
-| Ongoing collaboration | Heavy OTHERS + WHY | Building a product together over multiple sessions |
-| Autonomous agent | All four, front-loaded | "Go research X, build Y, deliver Z — here's everything you need to know" |
+**Quick question** → WHAT only
+*"What's the date of Presidents' Day?"*
+
+**Standard task** → WHAT + HOW
+*"Write a Python script to parse this CSV, use pandas"*
+
+**High-stakes deliverable** → All four pillars
+*Partner proposal, investor deck, legal letter*
+
+**Ongoing collaboration** → Heavy OTHERS + WHY
+*Building a product together over multiple sessions*
+
+**Autonomous agent** → All four, front-loaded
+*"Go research X, build Y, deliver Z. Here's everything you need to know"*
 
 ---
 

@@ -6,9 +6,9 @@
 
 ## This Is Not New
 
-Every major leap in human capability — the Enlightenment, the Scientific Revolution, the Industrial Revolution, the Digital Revolution — followed the same pattern: a new tool amplified what humans could already do, and the people who thrived were the ones who learned to work *with* it rather than fear it or dismiss it.
+Every major leap in human capability (the Enlightenment, the Scientific Revolution, the Industrial Revolution, the Digital Revolution) followed the same pattern: a new tool amplified what humans could already do, and the people who thrived were the ones who learned to work *with* it rather than fear it or dismiss it.
 
-AI is the latest step change. But unlike previous revolutions that primarily amplified physical labor or information access, this one amplifies *thinking itself* — reasoning, writing, analysis, synthesis, planning.
+AI is the latest step change. But unlike previous revolutions that primarily amplified physical labor or information access, this one amplifies *thinking itself*: reasoning, writing, analysis, synthesis, planning.
 
 Here's the good news: the skills required to work effectively with AI are the same skills you've been developing your entire professional career. You already know how to collaborate with intelligent beings. You've just only done it with humans until now.
 
@@ -26,7 +26,9 @@ What would you do? You'd *talk to them*. You'd explain the situation. You'd give
 
 That's it. That's "prompting."
 
-It's a conversation. It's collaboration. It's the same thing you do with a sharp colleague, a consultant, or a new team member who's brilliant but needs to be brought up to speed. Explore together. Plan together. Iterate together.
+It's a conversation. It's collaboration. It's the same thing you do with a sharp colleague, a consultant, or a new team member who's brilliant but needs to be brought up to speed.
+
+Explore together. Plan together. Iterate together.
 
 ### 2. Stop Focusing on Tasks — Start Focusing on Outcomes
 
@@ -47,19 +49,21 @@ This is the one that matters most, and it's also the one that's most natural to 
 
 AI can be confidently wrong. It can produce something that *sounds* excellent but contains subtle errors, hallucinated facts, or flawed reasoning. The more capable the AI, the more convincing its mistakes.
 
-**You are the accountable party.** Just as you would review a junior associate's brief, a consultant's analysis, or a contractor's deliverable — you review the AI's output with the same rigor. Your domain expertise is what separates useful collaboration from expensive autopilot.
+**You are the accountable party.** Just as you would review a junior associate's brief, a consultant's analysis, or a contractor's deliverable, you review the AI's output with the same rigor. Your domain expertise is what separates useful collaboration from expensive autopilot.
 
-This isn't a limitation of AI. It's the nature of all delegation. You've been doing it your entire career. The only difference is the speed — AI compresses the cycle, so your judgment has to keep pace.
+The nature of all delegation works this way. You've been doing it your entire career.
+
+The only difference is the speed: AI compresses the cycle, so your judgment has to keep pace.
 
 ### 4. Stop Writing — Start Talking
 
-Here's a practical unlock that changes everything: **use your voice.**
+This is the shift you'll feel fastest: **use your voice.**
 
-Humans speak 3-5x faster than we type. But it's not just speed — speaking has dramatically lower cognitive load. When you type, your brain is simultaneously planning what to say, translating thoughts to finger movements, reading what you wrote, editing, and context-switching between thinking and transcribing.
+Humans speak 3-5x faster than we type. But it's not just speed: speaking has dramatically lower cognitive load. When you type, your brain is simultaneously planning what to say, translating thoughts to finger movements, reading what you wrote, editing, and context-switching between thinking and transcribing.
 
-When you speak, you just *think out loud*. It's what we're designed for. Thousands of years of telling stories around campfires, having high-bandwidth conversations, persuading and debating and exploring ideas — that's the mode where humans are most fluent.
+When you speak, you just *think out loud*. It's what we're designed for. Thousands of years of telling stories around campfires, having high-bandwidth conversations, persuading and debating and exploring ideas. That's the mode where humans are most fluent.
 
-Tools like WisprFlow let you talk into any text field at the push of a button. You speak, it transcribes, and the AI gets a rich, natural, context-dense input — because when you talk, you naturally include the background, the nuance, the "oh and one more thing" that you'd never bother typing.
+Tools like WisprFlow let you talk into any text field at the push of a button. You speak, it transcribes, and the AI gets a rich, natural, context-dense input. When you talk, you naturally include the background, the nuance, the "oh and one more thing" that you'd never bother typing.
 
 **Build the muscle.** It feels awkward at first. Within a week, you'll wonder how you ever typed all those prompts.
 
@@ -67,7 +71,7 @@ Tools like WisprFlow let you talk into any text field at the push of a button. Y
 
 Once the mindset clicks, the next step is getting consistently great results. That comes down to how you structure the context you give the AI.
 
-We've developed a companion framework for this: **The Context Architecture for Agentic Collaboration.** It breaks down context into four pillars — WHAT (outcome and deliverables), WHY (intent and stakes), HOW (approach and style), and OTHERS (the hidden context) — plus a fifth principle: that the best context is **co-created** through dialogue, not delivered as a one-way brief.
+We've developed a companion framework for this: **The Context Architecture for Agentic Collaboration.** It breaks down context into four pillars: WHAT (outcome and deliverables), WHY (intent and stakes), HOW (approach and style), and OTHERS (the hidden context). Plus a fifth principle: that the best context is **co-created** through dialogue, not delivered as a one-way brief.
 
 → *[Link to The Context Architecture for Agentic Collaboration]*
 
@@ -75,14 +79,14 @@ We've developed a companion framework for this: **The Context Architecture for A
 
 ## The Bottom Line
 
-The professionals who will thrive in this era are not the ones who learn the most sophisticated prompting tricks. They're the ones who recognize that this is the same game they've always played — collaborating with capable minds to produce outcomes that matter — and bring their full professional skill set to a new kind of partnership.
+The professionals who will thrive in this era are not the ones who learn the most sophisticated prompting tricks. They're the ones who recognize that this is the same game they've always played: collaborating with capable minds to produce outcomes that matter. And they bring their full professional skill set to a new kind of partnership.
 
 You already know how to delegate, verify, guide, and lead. Now you have a collaborator that works at the speed of thought, never sleeps, and has read more than any human alive.
 
-Use it like what it is: the most capable colleague you've ever had — one that still needs your judgment, your context, and your leadership to do its best work.
+Use it like what it is: the most capable colleague you've ever had. One that still needs your judgment, your context, and your leadership to do its best work.
 
 ---
 
 *This is the first in a two-part series on effective AI collaboration. The companion piece, The Context Architecture for Agentic Collaboration, provides a practical framework for structuring the context that drives great AI output.*
 
-*[Author: Tomás — CEO, Katapult]*
+*[Author: Tomás, CEO of Katapult]*
