@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Style B: Dark Botanical</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+html{font-size:clamp(18px,calc(14px + 0.35vw + 0.2vh),26px);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#0f0f0f;color:#e8e4df;font-family:'IBM Plex Sans',sans-serif;height:100vh;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative}
+.orb-1{position:absolute;width:clamp(300px,40vw,600px);height:clamp(300px,40vw,600px);background:radial-gradient(circle,rgba(212,165,116,0.2) 0%,transparent 70%);border-radius:50%;top:-10%;right:-5%;filter:blur(60px);animation:drift1 12s ease-in-out infinite alternate}
+.orb-2{position:absolute;width:clamp(250px,35vw,500px);height:clamp(250px,35vw,500px);background:radial-gradient(circle,rgba(232,180,184,0.15) 0%,transparent 70%);border-radius:50%;bottom:-10%;left:-5%;filter:blur(50px);animation:drift2 15s ease-in-out infinite alternate}
+@keyframes drift1{from{transform:translate(0,0) scale(1)}to{transform:translate(-40px,30px) scale(1.1)}}
+@keyframes drift2{from{transform:translate(0,0) scale(1)}to{transform:translate(30px,-20px) scale(1.05)}}
+.container{position:relative;z-index:1;text-align:center;padding:clamp(2rem,5vw,5rem);display:flex;flex-direction:column;align-items:center;gap:clamp(1.5rem,3vh,3rem)}
+.line{width:1px;height:clamp(40px,8vh,80px);background:linear-gradient(to bottom,transparent,#d4a574);animation:growLine 1.2s cubic-bezier(0.16,1,0.3,1) both}
+@keyframes growLine{from{height:0;opacity:0}to{opacity:1}}
+.tag{font-size:clamp(0.85rem,1vw,1rem);letter-spacing:0.25em;text-transform:uppercase;color:#9a9590;font-weight:300}
+h1{font-family:'Cormorant',serif;font-size:clamp(3rem,7vw,6rem);font-weight:400;line-height:1.05;color:#e8e4df}
+h1 em{font-style:italic;color:#d4a574}
+.subtitle{font-size:clamp(1rem,1.4vw,1.2rem);color:#9a9590;line-height:1.6;max-width:650px;font-weight:300}
+.accent-line{width:clamp(60px,8vw,120px);height:1px;background:linear-gradient(to right,transparent,#c9b896,transparent)}
+@keyframes fadeIn{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+.tag{animation:fadeIn 0.8s 0.3s both}.container h1{animation:fadeIn 0.8s 0.5s both}.subtitle{animation:fadeIn 0.8s 0.7s both}.accent-line{animation:fadeIn 0.8s 0.9s both}
+</style>
+</head>
+<body>
+<div class="orb-1"></div>
+<div class="orb-2"></div>
+<div class="container">
+  <div class="line"></div>
+  <div class="tag">Sunlight Holdings</div>
+  <h1>The <em>Value</em> Loop</h1>
+  <p class="subtitle">How humans and non-human intelligence structure collaboration to produce the specific kind of value a given output demands.</p>
+  <div class="accent-line"></div>
+</div>
+</body>
+</html>
